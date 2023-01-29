@@ -1,0 +1,8 @@
+numpy
+tensorflow
+os
+flask
+werkzeug
+mne
+pickle
+gunicorn
